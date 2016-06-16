@@ -1,0 +1,75 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+
+body { 
+	font-size: 62.5%; 
+	font-family: Georgia, serif;
+	/*background: url(images/bg.jpg) top center no-repeat #233743; */
+	background-color: grey;
+	background-repeat: repeat;
+	background-size: 100%;
+	}
+
+h6 {
+	font-size: 1.4em;
+	margin-bottom: 15px;
+}
+
+a { color: white; }
+
+label, li {
+	display: block;
+	padding: 5px;
+	font-size: 2.4em;
+	color: #e3f1fa;
+}
+
+.fs1 {
+	float: left;
+	margin-top: 30px;
+	margin: 5px;
+	margin-left: 110px;
+	width: 400px;
+	padding: 8px 15px 15px 15px;
+	
+	display: block; /* IE 7 Requires This */
+	}
+
+.fs2 {
+	float: right;
+	margin: 5px;
+	margin-right: 110px;
+	width: 400px;
+	padding: 8px 15px 15px 15px;
+	border: 1px solid white;
+	display: block; /* IE 7 Requires This */
+	}
+	
+	
+	legend {
+		padding: 4px 6px 4px 6px;
+		
+		font-size: 2.0em;
+		color: #e3f1fa;
+		font-style: italic;
+	}
+	
+ul { list-style: none; margin-bottom: 15px;}
+
+.results-bar {
+	padding: 10px;
+	color: white;
+	background: url(images/result-bar-bg.png) left center;
+	white-space: nowrap;
+}
+
+span.total-votes {
+	font-size: 2.6em;
+}
+.avatar{
+	width: 70px;
+	height: 70px;
+}
+

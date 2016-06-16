@@ -1,0 +1,68 @@
+<style>
+	.button{
+			position: fixed;
+			
+	}
+	.fvrc_logo2{
+				border-radius: 50px;
+				border: 10px solid white;
+				border-color: rgba(255,158,255,0.5);
+				height: 150px;
+				width:180px;
+				
+				
+	}	
+	.fontstyle{
+				font-family: Brush Script MT;
+				font-size: 24px;
+	}
+	.main_page{
+			position: fixed;		
+			
+	}
+	.txt_box{
+			height: 50px;
+			width: 500px;
+			font-family: verdana;
+			
+	}
+	.button_click{
+			height: 50px;
+			font-family: verdana;
+			background-color: #73ad21;
+			color: white;
+			box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 2px rgba(0, 0, 0, 0.24);
+			
+	}
+	.text{
+		font-size: 20px;
+		text-align: left;
+		color: #555555;
+	}
+	.inside_text{
+		margin-left: -5%;
+		border: 0px solid black;
+		width: 500px;
+		float: center;
+		
+	}
+	.radio1
+	{
+	
+	}
+	input[type='radio'] {
+    transform: scale(1.5);
+	
+}
+	.entry_form{
+		border: 1px solid black;
+		height: 275px;
+		width: 200px;
+		margin-top: 15%;
+		padding: 15px;
+	}
+	.button_entry_form{
+		
+	}
+
+	</style>
